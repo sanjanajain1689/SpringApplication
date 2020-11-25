@@ -1,5 +1,5 @@
 package com.capgemini.creating_apps.model;
-
+//greeting
 public class Greeting {
     private long counter;
     private String message;
