@@ -11,3 +11,7 @@ public class CreatingAppsApplication {
     }
 
 }
+
+
+//curl -X PUT -H "Content-Type: application/json" -d '{"firstName":"Abhinav","lastName":"Thakur"}' "http://localhost:8080/hello/put/{Abhinav}"
+//curl -X PUT "http://localhost:8080/hello/put/Abhinav?lastName=Thakur"
